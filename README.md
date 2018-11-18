@@ -23,7 +23,7 @@ Hope the compilation can save you efforts and offer you insights. Enjoy!
 
 ### [Grupo Bimbo Inventory Demand](https://www.kaggle.com/c/grupo-bimbo-inventory-demand)
 
-Wed 8 Jun 2016 - Tue 30 Aug 2016
+Sat 3 Feb 2018 – Wed 18 Apr 2018
 
 Maximize sales and minimize returns of bakery goods
 
@@ -31,7 +31,7 @@ Maximize sales and minimize returns of bakery goods
 
 ### [Kobe Bryant Shot Selection](https://www.kaggle.com/c/kobe-bryant-shot-selection)
 
-Fri 15 Apr 2016 – Mon 13 Jun 2016
+Sat 3 Feb 2018 – Wed 18 Apr 2018
 
 Which shots did Kobe sink?
 
